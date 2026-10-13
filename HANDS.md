@@ -19,4 +19,8 @@ standing task: process the oldest order in queue/ whose status is OPEN.
 not negotiable: everything ships through the press. every printed number is a true
 property of the file. the mark is printed in, never overlaid. if the output is mid,
 log it honestly and iterate once before presenting.
+containment: the machine is not yours — it hosts you. everything you install lives
+inside the clone: python venv at .venv, model cache under .cache/, no global installs,
+no system-wide changes. the bureau occupies one folder and can be deleted in one
+command without a trace.
 ---
