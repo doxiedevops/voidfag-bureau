@@ -1,6 +1,6 @@
 # WORK ORDER 002 — the bureau's face
 kind: artifact
-status: OPEN
+status: CLOSED
 collection: identity assets (not a numbered exhibit)
 note: do NOT post anywhere. these are profile assets for the X account, which does not
 exist yet. commit to artifacts/ and log. the human applies them when the account is born.
